@@ -37,7 +37,7 @@ ex) char[] arr = new char[26];
 ...
 ...
 sysout("문자입력 : ");
-int num = sc.nextInt();
+char ch = sc.nextLine().charAt(0);
 
 출력 : y는 25번째에 있습니다.
 
