@@ -1,4 +1,2 @@
 # javaHclass
-java test git
-test test
-test test
+2018-07-24 1회차
