@@ -1,4 +1,4 @@
-#2018-07-30
+﻿#2018-07-30
 
 문제1.
 String str = "국어:70,영어:60,수학:60,총점:0,평균:0";
@@ -58,6 +58,6 @@ String[] fileArr = {"video.mp4","music.mp3","text.txt","bandi.zip","image.jpg"};
 소리 파일 이름 : music
 텍스트 파일 이름 : text
 압축 파일 이름 : bandi
-그림 파일 이름 : jpg 
+그림 파일 이름 : image
 
  
